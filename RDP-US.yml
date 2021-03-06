@@ -1,4 +1,4 @@
-name: CI
+name: taigas
 
 on: workflow_dispatch
 
